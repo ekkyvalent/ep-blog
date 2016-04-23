@@ -15,7 +15,7 @@ tagline:             'You should not take this too seriously.'
 description:         'Personal blog of Ekky Pramana'
 url:
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             'blog.ekkypramana.com/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
