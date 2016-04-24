@@ -9,11 +9,11 @@ permalink:           /:title
 # Setup
 timezone:            Asia/Jakarta
 locale:              id
-name:				         
+name:				         Ekky Pramana Personal Blog
 title:               Ekky Pramana Personal Blog
 tagline:             'You should not take this too seriously.'
 description:         'Personal blog of Ekky Pramana'
-url:
+url:                  http://blog.ekkypramana.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
