@@ -22,13 +22,15 @@ Maka saya mulai menulis keseharian saya di sekolah bersama sahabat-sahabat saya 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url(http://i.imgur.com/OUkLi.gif);"></div>
 
-Walaupun norak minta ampun, saya mengapresiasi inisiatif Ekky Pramana si anak SMP dalam menulis dan membagikan tulisannya ke sepersekian persen manusia di dunia tanpa tahu malu sama sekali. Tulis menulis ini terus saya lakukan sampai saat SMA yang entah bagaimana, kebiasaan menulis blog itu hilang sama sekali hingga sekarang. Ini adalah [blog versi SMA](https://ekkypramana.wordpress.com/) yang mudah-mudah lebih dirahmati Tuhan Yang Maha Esa.
+Walaupun norak minta ampun, saya mengapresiasi inisiatif Ekky Pramana si anak SMP dalam menulis dan membagikan tulisannya ke sepersekian persen manusia di dunia tanpa tahu malu sama sekali. Tulis menulis ini terus saya lakukan sampai saat SMA yang entah bagaimana, kebiasaan menulis blog itu hilang sama sekali hingga sekarang.
+
+Jika kamu mungkin berminat untuk melihat tulisan saya di masa lalu, Ini adalah [blog versi SMA](https://ekkypramana.wordpress.com/) yang mudah-mudah lebih dirahmati Tuhan Yang Maha Esa. _Tidak direkomendasikan untuk ibu hamil dan menyusui._
 
 Namun jika ditelusuri lebih jauh lagi, kegemaran menulis saya dimulai saat saya duduk di kelas 4 SD. Saat itu saya sudah mampu menulis buku. Ya, buku.
 
-Buku ini berisi kumpulan cerita sederhana tentang persahabatan tiga anak laki-laki dan beberapa anak perempuan yang tinggal di satu komplek. Ingatan saya agak kabur tentang bagaimana kisah buku itu berlangsung, yang saya ingat, saat itu sedang marak kembali cerita _Lupus_. Tidak heran saya mengambil seting persahabatan saat itu. Kalau saja saya masih ingat ceritanya, barangkali mesin waktu itu akan saya pakai untuk ke masa yang lebih silam itu.
+Buku ini berisi kumpulan cerita sederhana tentang persahabatan tiga anak laki-laki dan beberapa anak perempuan yang tinggal di satu komplek. Ingatan saya agak kabur tentang bagaimana kisah buku itu berlangsung, yang saya ingat, saat itu saya sedang menggilai sekali novel-novel _Lupus_ karangan Mas Hilman. Tidak heran saya mengambil seting persahabatan saat itu. Kalau saja saya masih ingat ceritanya, barangkali mesin waktu itu akan saya pakai untuk ke masa SD.
 
-Apakah anak SMP menulis blog adalah sesuatu yang spesial? Tentu saja tidak. Apakah anak SD menulis buku adalah sesuatu yang spektakuler? Barangkali, kalau saja saat itu saya mengerti kalau buku itu bisa jadi duit dan duit bisa jadi koleksi _Gunpla_ yang lebih hebat lagi. Yang membuat saya kagum pada mereka adalah bukan karena hobi mereka dalam menulis sejak dini, tapi kemampuan mereka dalam menulis dengan tulus. Tulus dalam artian tanpa adanya kekang yang membatasi antara pikiran dan tulisan.
+Apakah anak SMP menulis blog adalah sesuatu yang spesial? Tentu saja tidak. Apakah anak SD menulis buku adalah sesuatu yang spektakuler? Barangkali, kalau saja saat itu saya mengerti kalau menerbitkan buku bisa jadi duit dan duit bisa jadi koleksi _gunpla_ yang lebih hebat lagi. Yang membuat saya kagum pada mereka adalah bukan karena hobi mereka dalam menulis sejak dini, tapi kemampuan mereka dalam menulis dengan tulus. Tulus dalam artian tanpa adanya kekang yang membatasi antara pikiran dan tulisan.
 
 Saya ingin menulis dengan tulus lagi.
 
