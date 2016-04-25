@@ -63,10 +63,10 @@ layout: default
   <footer class="postFooter">
     {% if page.previous.url %}
       <section class="section--prePost is-darkBackgrounded u-table">
-        <div class="section-backgroundImage section-backgroundImage--previousPage">
+        <div class="section-backgroundImage section-backgroundImage--previousPage desaturate">
           <img class="post-featuredImage"
           {% if page.previous.image.feature %}
-            src="{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}"
+            src="{{ page.previous.image.feature }}"
           {% endif %}
           style="top:0" alt="">
         </div>
@@ -79,7 +79,7 @@ layout: default
         "></div>
         <div class="section-title u-tableCell u-verticalAlignMiddle">
           <div class="container">
-            <h4>Next story:</h4>
+            <h4>Baca juga:</h4>
             <a class="prev" href="{{page.previous.url}}">
               <h2>{{page.previous.title}}</h2>
             </a>
