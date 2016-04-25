@@ -7,7 +7,7 @@ excerpt: "Ini post pertama yang (mungkin) kesejuta kalinya."
 categories: thoughts
 tags:  blog
 image:
-  feature: https://dl.dropboxusercontent.com/content_link/dqk8QeJSuKKfegHMmRHlKDWzRwKvbemMF7dLORIRmzIDxueBJjilu5COI6xTXnKw/file
+  feature: https://www.dropbox.com/s/ov10r7mt6l8fj4d/baby-writing.png?raw=1
   topPosition: -70px
 bgContrast: dark
 bgGradientOpacity: darker
