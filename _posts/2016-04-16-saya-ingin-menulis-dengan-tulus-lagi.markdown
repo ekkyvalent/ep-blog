@@ -4,10 +4,10 @@ title:  "Saya Ingin Menulis dengan Tulus Lagi"
 date:   2016-04-16 10:42:00
 last_modified_at:  2016-04-16 10:42:00
 excerpt: "Ini post pertama yang (mungkin) kesejuta kalinya."
-categories: tentang
+categories: thoughts
 tags:  blog
 image:
-  feature: baby-writing.png
+  feature: https://dl.dropboxusercontent.com/content_link/dqk8QeJSuKKfegHMmRHlKDWzRwKvbemMF7dLORIRmzIDxueBJjilu5COI6xTXnKw/file
   topPosition: -70px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -20,7 +20,7 @@ Saya ingat bagaimana delapan atau sembilan tahun lalu saya memulai menulis blog.
 
 Maka saya mulai menulis keseharian saya di sekolah bersama sahabat-sahabat saya kala itu. Dengan polosnya saya menceritakan hal-hal memalukan yang membuat saya rasanya ingin bekerja giat, menjadi _billionaire_, mengucurkan investasi untuk seluruh ilmuwan di dunia ini untuk menyegerakan pembuatan mesin waktu, kembali ke masa lalu, hanya untuk menampar wajah saya keras-keras.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url(http://i.imgur.com/OUkLi.gif);"></div>
+<div class="img img--fullContainer img--14xLeading desaturate" style="background-image: url(http://i.imgur.com/OUkLi.gif);"></div>
 
 Walaupun norak minta ampun, saya mengapresiasi inisiatif Ekky Pramana si anak SMP dalam menulis dan membagikan tulisannya ke sepersekian persen manusia di dunia tanpa tahu malu sama sekali. Tulis menulis ini terus saya lakukan sampai saat SMA yang entah bagaimana, kebiasaan menulis blog itu hilang sama sekali hingga sekarang.
 
@@ -34,4 +34,4 @@ Apakah anak SMP menulis blog adalah sesuatu yang spesial? Tentu saja tidak. Apak
 
 Saya ingin menulis dengan tulus lagi.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url(https://media.giphy.com/media/VEEgsdMoV8xYA/giphy.gif);"></div>
+<div class="img img--fullContainer img--14xLeading desaturate" style="background-image: url(https://media.giphy.com/media/VEEgsdMoV8xYA/giphy.gif);"></div>
