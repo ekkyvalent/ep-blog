@@ -8,21 +8,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <!-- Optimized for search engines -->
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> {% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}"> {% endif %}
 
-  {% if page.robots %}
-    <meta name="robots" content="{{ page.robots }}">
-  {% endif %}
-
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-
-  {% if page.next.url %}
-    <link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.next.title }}">
-  {% endif %}
-
-  {% if page.previous.url %}
-    <link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.previous.title }}">
-  {% endif %}
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}"> {% if page.next.url %}
+  <link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.next.title }}"> {% endif %} {% if page.previous.url %}
+  <link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.previous.title }}"> {% endif %}
 
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -32,6 +23,8 @@
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{% if page.image.feature %}{{ page.image.feature | prepend: site.baseurl_featured_img | prepend: site.url }}{% else %}{{ site.icon | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+
 
   <!-- Open graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
@@ -67,20 +60,13 @@
   <meta property="fb:app_id" content="{{ site.fb_appid }}">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+    {% if page.title == "Home" %} {{ site.title }} &middot; {{ site.tagline }} {% else %} {{ page.title }} &middot; {{ site.title }} {% endif %}
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css">
-
-  {% if page.syntaxHighlighter %}
-    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/prism-okaidia.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/prism-line-numbers.css">
-  {% endif %}
+  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css"> {% if page.syntaxHighlighter %}
+  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/prism-okaidia.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/prism-line-numbers.css"> {% endif %}
 
   <!-- Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:700,400' rel='stylesheet' type='text/css'>
