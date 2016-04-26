@@ -8,6 +8,7 @@ categories: thoughts
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/ov10r7mt6l8fj4d/baby-writing.png?raw=1
+  thumbnail: baby-writing.png
   topPosition: -70px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -8,6 +8,7 @@ categories: thoughts
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/luzm8882o8xdf3b/karini-modern.png?raw=1
+  thumbnail: karini-modern.png
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
