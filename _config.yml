@@ -15,7 +15,7 @@ tagline:             'Jangan terlalu serius lah.'
 description:         'Personal blog of Ekky Pramana'
 url:                 http://blog.ekkypramana.com
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -34,8 +34,8 @@ author:
   soundcloud:        ekkyvalent
   steam:             evale
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+fb_admins:           ekkypramana
+fb_appid:            1489390928042940
 
 # Server
 destination:      	 ./_site
@@ -49,3 +49,6 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+
+gems:
+  [jekyll-sitemap]
