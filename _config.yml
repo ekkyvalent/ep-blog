@@ -8,7 +8,7 @@ permalink:           /:title
 
 # Setup
 timezone:            Asia/Jakarta
-locale:              id
+locale:              id_ID
 name:				         Ekky Pramana Personal Blog
 title:               Ekky Pramana Personal Blog
 tagline:             'Jangan terlalu serius lah.'

@@ -15,7 +15,7 @@ syntaxHighlighter: no
 
 Selamat Hari Kartini wahai perempuan Indonesia.
 
-Di hari ini sebenarnya saya ingin sekali menulis sesuatu yang agak berbobot. Sayang sekali sakit gigi ini sedikit menghambat niat mulia saya. Tapi tidak apalah, pada akhirnya cuma kamu bisa menilai seberapa berbobotnya tulisan saya saat sedang sakit gigi akut ini.
+Di hari ini sebenarnya saya ingin sekali menulis sesuatu yang agak berbobot. Sayang sekali sakit gigi ini sedikit menghambat niat mulia saya. Tapi tidak apalah, pada akhirnya cuma kamu yang bisa menilai seberapa berbobotnya tulisan saya saat sedang sakit gigi akut ini.
 
 Bicara soal Ibu Kartini---khususnya di Hari Kartini---tentu saja kita tidak pernah lepas dari sosok wanita yang selain lagu tentang beliau selalu menjadi *benchmark* dalam tes musik pianika saat sekolah dasar, Kartini juga merupakan seorang tokoh perubahan dan juga seorang pejuang emansipasi wanita.
 
