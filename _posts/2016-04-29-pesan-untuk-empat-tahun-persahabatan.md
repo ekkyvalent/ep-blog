@@ -4,7 +4,7 @@ title:  "Pesan untuk Empat Tahun Persahabatan"
 date:   2016-04-29 03:35:00
 last_modified_at:  2016-04-29 03:35:00
 excerpt: "Saat kamu di luar sana, jadilah versi dirimu yang terbaik, kawan."
-categories: thoughts
+minutes: 5 minute read
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/u1mtadnve57iuf9/smti06-red.png?raw=1
