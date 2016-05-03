@@ -8,7 +8,7 @@ minutes: 5 minute read
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/aqv40p33iourip7/aadc-2.png?raw=1
-  thumbnail: aadc-02.png
+  thumbnail: aadc-2.png
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
