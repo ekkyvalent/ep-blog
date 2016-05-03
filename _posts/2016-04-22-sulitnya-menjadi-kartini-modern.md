@@ -4,7 +4,7 @@ title:  "Sulitnya Menjadi Kartini Modern"
 date:   2016-04-22 13:42:00
 last_modified_at:  2016-04-22 13:42:00
 excerpt: "Terlebih lagi, apa arti sebenarnya menjadi sosok Kartini Modern?"
-categories: thoughts
+minutes: 5 minutes read
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/luzm8882o8xdf3b/karini-modern.png?raw=1

@@ -4,7 +4,7 @@ title:  "Saya Ingin Menulis dengan Tulus Lagi"
 date:   2016-04-16 10:42:00
 last_modified_at:  2016-04-16 10:42:00
 excerpt: "Ini post pertama yang (mungkin) kesejuta kalinya."
-categories: thoughts
+minutes: 3 minute read
 tags:  blog
 image:
   feature: https://www.dropbox.com/s/ov10r7mt6l8fj4d/baby-writing.png?raw=1
