@@ -14,11 +14,11 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Minggu ini merupakan ujian berat bagi para pemuda Indonesia. Ujian yang menghadapkan kita semua pada dua pilihan super sulit. Pilihan yang kadang mengakibatkan retaknya hubungan dua kekasih bahkan hubungan geng arisan kantor. Pilihan apakah akan nonton Captain America: Civil War atau Ada Apa Dengan Cinta 2 terlebih dahulu.
+Minggu ini merupakan ujian berat bagi para pemuda Indonesia. Ujian yang menghadapkan kita semua pada dua pilihan super sulit. Pilihan yang kadang mengakibatkan retaknya hubungan dua kekasih bahkan hubungan geng arisan kantor. Pilihan apakah akan nonton *Captain America: Civil War* atau *Ada Apa Dengan Cinta 2* terlebih dahulu.
 
-Untungnya saya dan kekasih memutuskan untuk menonton Civil War terlebih dahulu. Kalau tidak, malam Senin kemarin saya bakal nonton Civil War sama keluarga dan saya akan melewatkan kesempatan untuk nonton AADC 2 dua kali.
+Untungnya saya dan kekasih memutuskan untuk menonton *Civil War* terlebih dahulu. Kalau tidak, malam Senin kemarin saya bakal nonton *Civil War* sama keluarga dan saya akan melewatkan kesempatan untuk nonton AADC 2 dua kali.
 
-Ya, jujur saja, saya lebih memilih nonton dua kali AADC 2 ketimbang nonton Civil War. Bukan karena saya orangnya masokis, tetapi karena film ini beneran bagus. Walaupun dua-duanya sebenarnya keren, ada hal yang membuat saya merasa bahwa saya harus nonton kisah penutup Rangga dan Cinta itu lagi.
+Ya, jujur saja, saya lebih memilih nonton dua kali AADC 2 ketimbang nonton *Civil War*. Bukan karena saya orangnya masokis, tetapi karena film ini beneran bagus. Walaupun dua-duanya sebenarnya keren, ada hal yang membuat saya merasa bahwa saya harus nonton kisah penutup Rangga dan Cinta itu lagi.
 
 Film ini lagi-lagi membahas tentang persoalan kisah cinta antara Cinta dan Rangga yang ternyata tidak semulus kulit Dian Sastro. Bahkan tidak semulus kulit Nicholas Saputra juga. Masalah hubungan mereka ini membuat Rangga yang dulunya sinis dan suka cemberut, kini berubah menjadi suka cemberut aja. Sementara Cinta? Hidupnya masih bahagia aja. Dia punya galeri seni, punya tunangan om-om yang diperankan oleh Ario Bayu (udah kebayang kan se-om-om apa), pokoknya sempurna deh. Sampai... mereka dipertemukan di Jogja.
 
