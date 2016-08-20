@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apa Arti Pernihakan?"
+title:  "Apa Arti Pernikahan?"
 date:   2016-07-28 02:24:00
 last_modified_at:  2016-07-28 02:24:00
 excerpt: "Pertanyaan kecil yang seringkali hanya sekejap terbesit. Namun tidak untuk kali ini."
