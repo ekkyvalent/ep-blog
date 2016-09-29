@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Menilik Standar Kenakalan Remaja ala Awkarin."
+title:  "Menilik Standar Kenakalan Remaja ala Awkarin"
 date:   2016-09-25 14:22:00
 last_modified_at:  2016-09-25 14:22:00
-excerpt: "Mudahnya menjadi anak baik di Indonesia."
+excerpt: "Sulitnya menjadi anak nakal di Indonesia."
 minutes: 9 minute read
 tags:  blog
 image:
